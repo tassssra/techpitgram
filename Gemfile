@@ -73,3 +73,6 @@ gem 'carrierwave', '~> 1.0'
 
 # rmagick
 gem 'rmagick'
+
+# font-awesome
+gem 'font-awesome-rails'
